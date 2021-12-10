@@ -16,6 +16,10 @@ Issue ve Pull Request hakkında bilgisi olmayanlar için: https://www.dataschool
 
 ### İçindekiler
 
+- :computer: [Genel](#genel)
+  - :coffee: [Faydalı Siteler](#genel_site)
+  - :anger: [Video Kurslar](#genel_kurs)
+
 - :snowflake: [Web Geliştirme](#web)
   - :elephant: [Discord Kanalları](#web_dis)
   - :hatching_chick: [Giriş Seviye](#web_baslangic)
@@ -50,6 +54,16 @@ Issue ve Pull Request hakkında bilgisi olmayanlar için: https://www.dataschool
 
 
 <br />
+
+## :computer: Genel <a name="web"></a>
+---
+<br />
+
+### :coffee: Faydalı Siteler <a name="genel_site"></a>
+- [Geeks For Geeks](https://www.geeksforgeeks.org/) Bilgisayar mühendislerinin toplanma yeri.
+
+### :anger: Video Kurslar <a name="genel_video"></a>
+- [Crash Course Computer Science](https://www.youtube.com/playlist?list=PLH2l6uzC4UEW0s7-KewFLBC1D0l6XRfye) Bilgisayarın tarihinden donanıma, yazılımdan robotiğe çoğu konunun basitçe ele alındığı genel bir kurs. 
 
 ## :snowflake: Web Geliştirme <a name="web"></a>
 ---
@@ -103,7 +117,7 @@ Issue ve Pull Request hakkında bilgisi olmayanlar için: https://www.dataschool
 - [XO Pixel](https://www.youtube.com/c/Xopixell/videos) Genellikle sıfırdan tasarım, HTML ve CSS ile hoş siteler yapan, takip edilesi bir kanal.
 - [Kevin Powell](https://www.youtube.com/kepowob) CSS Üstadı, SASS'in korkulu rüyası.
 - [Andrew Mead ReactJS Kursu](https://www.udemy.com/course/react-2nd-edition/) Javascript'den React'e geçiş için harika bir adım.
-- 
+- [Frontend Mentor](https://www.frontendmentor.io/) Size kaynaklar ve istenen tasarım verilir, istediğiniz teknolojileri kullanarak beklenen tasarımı gerçekleştirmeniz beklenir. HTML ve CSS pratiği ve iş hayatı tecrübesi için harika. 
 
 ### :dagger: Backend <a name="web_back"></a>
 - [Husein Nasser Youtube Kanalı](https://www.youtube.com/c/HusseinNasser-software-engineering/featured) Genellikle backend alanı için konu konu videolar paylaşan, alanında nadir insanlardan birisi.
