@@ -66,6 +66,9 @@ Issue ve Pull Request hakkında bilgisi olmayanlar için: https://www.dataschool
 - [Crash Course Computer Science](https://www.youtube.com/playlist?list=PLH2l6uzC4UEW0s7-KewFLBC1D0l6XRfye) Bilgisayarın tarihinden donanıma, yazılımdan robotiğe çoğu konunun basitçe ele alındığı genel bir kurs. 
 - [Fireship](https://www.youtube.com/c/Fireship/videos) Farklı konularda, neyin ne olduğuna dair kısa videolar serisi paylaşan bir kanal.
 
+<br />
+<br />
+
 ## :snowflake: Web Geliştirme <a name="web"></a>
 ---
 <br />
