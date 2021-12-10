@@ -18,7 +18,7 @@ Issue ve Pull Request hakkında bilgisi olmayanlar için: https://www.dataschool
 
 - :computer: [Genel](#genel)
   - :coffee: [Faydalı Siteler](#genel_site)
-  - :anger: [Video Kurslar](#genel_kurs)
+  - :anger: [Video Kurslar](#genel_video)
 
 - :snowflake: [Web Geliştirme](#web)
   - :elephant: [Discord Kanalları](#web_dis)
@@ -55,7 +55,7 @@ Issue ve Pull Request hakkında bilgisi olmayanlar için: https://www.dataschool
 
 <br />
 
-## :computer: Genel <a name="web"></a>
+## :computer: Genel <a name="genel"></a>
 ---
 <br />
 
@@ -64,6 +64,7 @@ Issue ve Pull Request hakkında bilgisi olmayanlar için: https://www.dataschool
 
 ### :anger: Video Kurslar <a name="genel_video"></a>
 - [Crash Course Computer Science](https://www.youtube.com/playlist?list=PLH2l6uzC4UEW0s7-KewFLBC1D0l6XRfye) Bilgisayarın tarihinden donanıma, yazılımdan robotiğe çoğu konunun basitçe ele alındığı genel bir kurs. 
+- [Fireship](https://www.youtube.com/c/Fireship/videos) Farklı konularda, neyin ne olduğuna dair kısa videolar serisi paylaşan bir kanal.
 
 ## :snowflake: Web Geliştirme <a name="web"></a>
 ---
