@@ -90,6 +90,7 @@ Issue ve Pull Request hakkında bilgisi olmayanlar için: https://www.dataschool
 - [FCC Javascript Uygulamalı Kursu](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/) Uygulamalı Javascript öğrenmek, pekiştirmek isteyenler için.
 - [Codecademy](https://www.codecademy.com/) Free Code Camp benzeri, güzel kursları olan bir platform.
 - [The Odin Project](https://www.theodinproject.com/) Bünyesinde ücretsiz web geliştirme kursları barındıran hoş bir proje.
+- [FreeCodeCamp](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/) İnteraktif bir şekilde JavaScript öğrenmek isteyenler için 300'e yakın temel konseptleri içeren bir kurs.
 
 #### :bird: Video Dersler
 - [Jonas Schmedtmann Javascript Kursu](https://www.udemy.com/course/the-complete-javascript-course/) Javascript için ideal.
@@ -128,6 +129,7 @@ Issue ve Pull Request hakkında bilgisi olmayanlar için: https://www.dataschool
 - [Andrew Mead NodeJS Kursu](https://www.udemy.com/course/the-complete-nodejs-developer-course-2/) Her şeyi mantığıyla öğreten, en iyi NodeJS kurslarından birisi.
 - [MongoDB University](https://university.mongodb.com/) NoSQL için MongoDB'nin ücretsiz sunduğu video kurslar. 
 - [Stephen Grider SQL ve PostgreSQL Kursu](https://www.udemy.com/course/sql-and-postgresql/) SQL öğrenmek isteyenler için, içinde bol bol uygulama da bulunduran hoş bir kurs.
+- [Fireship](https://fireship.io/) Genelde JS framework'leri ile Google Firebase bağdaştırmasını anlatan kursları var. Başlangıç olarak çok backend yazmak istemeyenler için ideal.
 
 ### :deciduous_tree: Dev Ops <a name="web_ops"></a>
 - [Git](https://www.youtube.com/watch?v=USjZcfj8yxE) Gid'in her şeyden önce bunu öğrenin.
@@ -163,9 +165,22 @@ Issue ve Pull Request hakkında bilgisi olmayanlar için: https://www.dataschool
 <br />
 
 ### :hatching_chick: Giriş Seviye <a name="veri_baslangic"></a>
+#### :ocean: Faydalı Siteler
+ - [W3Schools](https://www.w3schools.com/) Python'a giriş yapacaklar için güzel bir başlangıç.
+ - [FreeCodeCamp](https://www.freecodecamp.org/learn/scientific-computing-with-python/) İnteraktif kursu ile Python3 temellerini anlatıyor.
+
+#### :bird: Video Dersler
+ - [FreeCodeCamp](https://www.youtube.com/c/Freecodecamp) 4.5 Saatlik başlangıç seviye Python3 kursu.
+ - [Bro Code](https://www.youtube.com/c/BroCodez) 12 Saatlik oldukça detaylı bir Python kursu. Bilinmesi gereken bir çok konsepti anlatıyor.
 <br />
 
 ### :dog: Orta Seviye <a name="veri_orta"></a>
+#### :ocean: Faydalı Siteler
+ -[NumPy](https://numpy.org/) NumPy veri bilimi için kullanılan bir çok kütüphanenin temel bağlı kütüphanesidir. NumPy Doc'larına bakarak girilebilir.
+ -[Pandas](https://pandas.pydata.org/) Pandas normal Python ile yapılamayan bir çok şeyin yapılmasını sağlar. Dökümanları çok yeterli olmasa da anlaşılmayan yerde bakılabilir.
+ 
+#### :bird: Video Dersler
+ -[FreeCodeCamp](https://www.youtube.com/c/Freecodecamp) 12 Saatlik bir veri bilimi kursları mevcut. NumPy, Pandas ve Matplotlib kütüphanelerini öğretiyorlar.
 <br />
 
 ### :pencil: Takip Edilesi Blog Sayfaları <a name="veri_blog"></a>
