@@ -221,7 +221,9 @@ Issue ve Pull Request hakkında bilgisi olmayanlar için: https://www.dataschool
 - [Lunizz Youtube Kanalı](https://www.udemy.com/course/temel-network-egitimi/)Türkiyedeki gençleri hacker yapma amacı taşıyan samimi adam Can Değer in kanalı
 
 <br />
+
 ### :dog: Orta Seviye <a name="siber_orta"></a>
+
 <br />
 
 ### :pencil: Takip Edilesi Blog Sayfaları <a name="siber_blog"></a>
