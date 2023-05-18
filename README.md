@@ -130,10 +130,12 @@ Issue ve Pull Request hakkında bilgisi olmayanlar için: https://www.dataschool
 - [Stephen Grider SQL ve PostgreSQL Kursu](https://www.udemy.com/course/sql-and-postgresql/) SQL öğrenmek isteyenler için, içinde bol bol uygulama da bulunduran hoş bir kurs.
 
 ### :deciduous_tree: Dev Ops <a name="web_ops"></a>
-- [Git](https://www.youtube.com/watch?v=USjZcfj8yxE) Gid'in her şeyden önce bunu öğrenin.
-- [Docker](https://docs.docker.com/get-started/overview/) Container yapısı ve Docker için hoş bir başlangıç.
-- [Kubernetes](https://kubernetes.io/) İleri seviye container uygulaması.
-- [Jenkins](https://www.jenkins.io/) Proje otomasyon aracı
+#### :abcd: Kubernetes
+- [Rancher Docs](https://www.suse.com/c/rancherblog/)
+- [Git](https://www.youtube.com/watch?v=USjZcfj8yxE) 
+- [Docker](https://docs.docker.com/get-started/overview/) 
+- [Kubernetes](https://kubernetes.io/)
+- [Jenkins](https://www.jenkins.io/)
 
 ### :cat: Kullanışlı Araçlar <a name="web_arac"></a>
 - [Mycolor Space](https://mycolor.space/) Seçtiğiniz renge uygun renk paletleri öneren uygulama.
