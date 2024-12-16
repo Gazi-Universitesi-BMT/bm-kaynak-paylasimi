@@ -229,13 +229,26 @@ Issue ve Pull Request hakkında bilgisi olmayanlar için: https://www.dataschool
 <br />
 
 ### :hatching_chick: Giriş Seviye <a name="siber_baslangic"></a>
+#### :ocean: Faydalı Siteler
+- [GeeksforGeeks](https://www.geeksforgeeks.org/computer-network-tutorials/) Siber güvenliğe yeni başlayanlar için temel network eğitimi içeren liste
+- [Temel Linux](https://linux-dersleri.github.io/) Linux'un ne olduğunu, temel ve orta seviye komutları anlatan eğitim dökümanı
+#### :bird: Video Dersler
+- [Networkchuck Lİnux Kursu](https://youtube.com/playlist?list=PLIhvC56v63IJIujb5cyE13oLuyORZpdkL) Linux için temel anlatan eğlenceli eğitim
+- [Cisco Akademi Temel Network Eğitimi](https://www.udemy.com/course/temel-network-egitimi/) CSS pratiği için biçilmiş kaftan.
+- [Lunizz Youtube Kanalı](https://www.udemy.com/course/temel-network-egitimi/)Türkiyedeki gençleri hacker yapma amacı taşıyan samimi adam Can Değer in kanalı
+
 <br />
 
 ### :dog: Orta Seviye <a name="siber_orta"></a>
+
 <br />
 
 ### :pencil: Takip Edilesi Blog Sayfaları <a name="siber_blog"></a>
-
+- [KrebsOnSecurity](https://krebsonsecurity.com/) Cloud'dan Planlamaya birçok alanda derlenmiş makaleler dizisi.
+- [Schneier on Security](https://www.schneier.com/) Bruce Schneier, siber güvenlik ve gizlilik konusunda dünyanın önde gelen uzmanlarından biridir
+- [The Hacker News]( https://thehackernews.com/)
+- [Naked Security](https://nakedsecurity.sophos.com/)
+- [Threatpost]( https://threatpost.com/)
 <br />
 <br />
 
